@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="2379.238px" height="933.093px" viewBox="0 0 2379.238 933.093" enable-background="new 0 0 2379.238 933.093"
+	 xml:space="preserve">
+<path fill="none" stroke="#333333" stroke-width="10" stroke-miterlimit="10" d="M345.02,528.569c0,0,45.004-216.022,63.006-276.028
+	"/>
+<ellipse fill="#FFFFFF" stroke="#515151" stroke-width="10" stroke-miterlimit="10" cx="315.25" cy="192.937" rx="162.419" ry="99.109"/>
+<path fill="none" stroke="#333333" stroke-width="10" stroke-miterlimit="10" d="M300.651,564.573
+	c0,0-126.013-78.008-165.016-189.019"/>
+<ellipse fill="#FFFFFF" stroke="#515151" stroke-width="10" stroke-miterlimit="10" cx="152.832" cy="378.054" rx="137.011" ry="75.508"/>
+<path fill="none" stroke="#333333" stroke-width="10" stroke-miterlimit="10" d="M660.687,528.569
+	c-7.048,134.491-212.048-32.23-96.973-307.072"/>
+<text transform="matrix(1 0 0 1 121.6227 408.5582)" font-family="'ArialMT'" font-size="69">ID</text>
+<text transform="matrix(1 0 0 1 186.1341 219.4972)" font-family="'ArialMT'" font-size="69">nombres</text>
+<path fill="none" stroke="#333333" stroke-width="10" stroke-miterlimit="10" d="M1540.651,554.573
+	c0,0-126.013-78.008-165.016-189.019"/>
+<ellipse fill="#FFFFFF" stroke="#515151" stroke-width="10" stroke-miterlimit="10" cx="1248.872" cy="292.046" rx="209.271" ry="100.51"/>
+<line fill="none" stroke="#474747" stroke-width="20" stroke-miterlimit="10" x1="1559.934" y1="623.717" x2="821.753" y2="623.717"/>
+<rect x="289.843" y="472.808" fill="#FFFFFF" stroke="#58167D" stroke-width="20" stroke-miterlimit="10" width="607.273" height="301.818"/>
+<text transform="matrix(1 0 0 1 422.0255 655.8992)" font-family="'ArialMT'" font-size="69">CLIENTES</text>
+<rect x="1097.035" y="524.478" transform="matrix(-0.6902 0.7236 -0.7236 -0.6902 2483.8816 192.8224)" fill="#474747" stroke="#FFFFFF" stroke-width="8" stroke-miterlimit="10" width="207.261" height="207.261"/>
+<text transform="matrix(1 0 0 1 1101.8434 650.899)" fill="#FFFFFF" font-family="'ArialMT'" font-size="50">Comprar</text>
+<path fill="none" stroke="#333333" stroke-width="10" stroke-miterlimit="10" d="M1654.663,518.569
+	c0,0,45.004-216.022,63.006-276.028"/>
+<path fill="none" stroke="#333333" stroke-width="10" stroke-miterlimit="10" d="M1900.687,518.569
+	c0,0,18.619-355.299,63.006-372.037"/>
+<path fill="none" stroke="#333333" stroke-width="10" stroke-miterlimit="10" d="M2050.702,518.569
+	c0,0,36.004-192.019,84.008-216.022"/>
+<text transform="matrix(1 0 0 1 1104.6047 320.5496)" font-family="'ArialMT'" font-size="69">matrícula</text>
+<ellipse fill="#FFFFFF" stroke="#515151" stroke-width="10" stroke-miterlimit="10" cx="1630.414" cy="166.034" rx="209.271" ry="100.51"/>
+<text transform="matrix(1 0 0 1 1544.1467 183.5369)" font-family="'ArialMT'" font-size="69">marca</text>
+<ellipse fill="#FFFFFF" stroke="#515151" stroke-width="10" stroke-miterlimit="10" cx="2159.967" cy="343.052" rx="209.271" ry="100.51"/>
+<text transform="matrix(1 0 0 1 2096.6997 370.5547)" font-family="'ArialMT'" font-size="69">serie</text>
+<ellipse fill="#FFFFFF" stroke="#515151" stroke-width="10" stroke-miterlimit="10" cx="2059.052" cy="118.987" rx="209.271" ry="100.51"/>
+<text transform="matrix(1 0 0 1 1986.7852 138.4902)" font-family="'ArialMT'" font-size="69">color</text>
+<rect x="1509.843" y="472.808" fill="#FFFFFF" stroke="#3EFF22" stroke-width="20" stroke-miterlimit="10" width="607.273" height="301.818"/>
+<text transform="matrix(1 0 0 1 1627.0254 655.8992)" font-family="'ArialMT'" font-size="69">VEHÍCULOS</text>
+<ellipse fill="#FFFFFF" stroke="#515151" stroke-width="10" stroke-miterlimit="10" cx="657.786" cy="168.185" rx="152.916" ry="74.356"/>
+<text transform="matrix(1 0 0 1 538.7852 187.4902)" font-family="'ArialMT'" font-size="62">apellidos</text>
+<line fill="none" stroke="#000000" stroke-width="9" stroke-miterlimit="10" x1="1375.635" y1="332.55" x2="1124.119" y2="332.55"/>
+<line fill="none" stroke="#000000" stroke-width="9" stroke-miterlimit="10" x1="230.119" y1="420.558" x2="76.119" y2="420.558"/>
+</svg>
